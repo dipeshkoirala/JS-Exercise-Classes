@@ -13,14 +13,16 @@ class Airplane {
   constructor(name) {
     //When we create a class the first step is to put the constructor right after className curly braces
     this.name = name; //this assigns the name parameter to our class constructor
-    this.isFlying = false; //declaration of default isFlying property 0 for
+    this.isFlying = false; //declaration of default- isFlying property 0 for
   }
   takeOff() {
+    //refactored Airplane.prototoyp.takeoff() as Airplane is declared as class not function
     //
-    this.isFlying = true;
+    this.isFlying = true; //change the default value of 0 to 1 when we call it while we invoke
   }
   land() {
-    this.isFlying = false;
+    //
+    this.isFlying = false; //when we invoke through our instance it sets back the 0
   }
 }
 
@@ -43,7 +45,23 @@ class Airplane {
         + It should return a string with `name` and `age`. Example: "Mary, 50"
 */
 
-class Person {}
+class Person {
+  //its a class so what we need? -> constructor(param,param){this.prop=param,}
+  constructor(name, age) {
+    //takes name and age from argument
+    this.name = name;
+    this.age = age;
+    this.stomach = []; //Initialized an [] stomach array
+  }
+
+  eat(someFood) {
+    // Unlike in prototype it's easy and less code to type for defining a method
+    this.stomach.length = 10;
+    for (let someFood = 0; someFood < this.stomach.length; someFood++) {
+      this.stomach.push(someFood);
+    }
+  }
+}
 
 /*
   TASK 2
@@ -59,7 +77,7 @@ class Person {}
         + The `drive` method should return a string "I ran out of fuel at x miles!" x being `odometer`.
 */
 
-class Car {}
+//class Car {}
 
 /*
   TASK 3
