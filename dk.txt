@@ -1,0 +1,1006 @@
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > nanomatch >         
+                  define-property > is-descriptor > is-accessor-descriptor >    
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > braces > to-regex > define-property >            
+                  is-descriptor > is-data-descriptor > kind-of                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > braces > to-regex > define-property >            
+                  is-descriptor > is-data-descriptor > kind-of                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > braces > to-regex   
+                  > define-property > is-descriptor > is-data-descriptor >      
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > braces > to-regex >   
+                  define-property > is-descriptor > is-data-descriptor >        
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > extglob > expand-brackets > to-regex >           
+                  define-property > is-descriptor > is-data-descriptor >        
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > extglob > expand-brackets > to-regex >           
+                  define-property > is-descriptor > is-data-descriptor >        
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > extglob >           
+                  expand-brackets > to-regex > define-property > is-descriptor  
+                  > is-data-descriptor > kind-of                                
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > extglob > to-regex > define-property >           
+                  is-descriptor > is-data-descriptor > kind-of                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > extglob > to-regex > define-property >           
+                  is-descriptor > is-data-descriptor > kind-of                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > extglob > to-regex  
+                  > define-property > is-descriptor > is-data-descriptor >      
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > nanomatch > to-regex > define-property >         
+                  is-descriptor > is-data-descriptor > kind-of                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > nanomatch > to-regex > define-property >         
+                  is-descriptor > is-data-descriptor > kind-of                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > nanomatch >         
+                  to-regex > define-property > is-descriptor >                  
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > to-regex > define-property > is-descriptor >     
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > to-regex > define-property > is-descriptor >     
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > to-regex >          
+                  define-property > is-descriptor > is-data-descriptor >        
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > define-property > is-descriptor >                
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > define-property > is-descriptor >                
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > define-property >   
+                  is-descriptor > is-data-descriptor > kind-of                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > nanomatch > define-property > is-descriptor >    
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > nanomatch > define-property > is-descriptor >    
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > nanomatch >         
+                  define-property > is-descriptor > is-data-descriptor >        
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > braces > to-regex > define-property >            
+                  is-descriptor > kind-of                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > braces > to-regex > define-property >            
+                  is-descriptor > kind-of                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > braces > to-regex   
+                  > define-property > is-descriptor > kind-of                   
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > braces > to-regex >   
+                  define-property > is-descriptor > kind-of                     
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > extglob > expand-brackets > to-regex >           
+                  define-property > is-descriptor > kind-of                     
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > extglob > expand-brackets > to-regex >           
+                  define-property > is-descriptor > kind-of                     
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > extglob >           
+                  expand-brackets > to-regex > define-property > is-descriptor  
+                  > kind-of                                                     
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > extglob > to-regex > define-property >           
+                  is-descriptor > kind-of                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > extglob > to-regex > define-property >           
+                  is-descriptor > kind-of                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > extglob > to-regex  
+                  > define-property > is-descriptor > kind-of                   
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > nanomatch > to-regex > define-property >         
+                  is-descriptor > kind-of                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > nanomatch > to-regex > define-property >         
+                  is-descriptor > kind-of                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > nanomatch >         
+                  to-regex > define-property > is-descriptor > kind-of          
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > to-regex > define-property > is-descriptor >     
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > to-regex > define-property > is-descriptor >     
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > to-regex >          
+                  define-property > is-descriptor > kind-of                     
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > define-property > is-descriptor > kind-of        
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > define-property > is-descriptor > kind-of        
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > define-property >   
+                  is-descriptor > kind-of                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > nanomatch > define-property > is-descriptor >    
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > nanomatch > define-property > is-descriptor >    
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > nanomatch >         
+                  define-property > is-descriptor > kind-of                     
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > extglob > define-property > is-descriptor >      
+                  is-accessor-descriptor > kind-of                              
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > extglob > define-property > is-descriptor >      
+                  is-accessor-descriptor > kind-of                              
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > extglob >           
+                  define-property > is-descriptor > is-accessor-descriptor >    
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > extglob > define-property > is-descriptor >      
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+       
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > extglob > define-property > is-descriptor >      
+                  is-data-descriptor > kind-of                                  
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > extglob >           
+                  define-property > is-descriptor > is-data-descriptor >        
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > extglob > define-property > is-descriptor >      
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > extglob > define-property > is-descriptor >      
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > extglob >           
+                  define-property > is-descriptor > kind-of                     
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > kind-of                                          
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > kind-of                                          
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > kind-of             
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > anymatch >            
+                  micromatch > nanomatch > kind-of                              
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > readdirp >            
+                  micromatch > nanomatch > kind-of                              
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+  Low             Validation Bypass                                             
+
+  Package         kind-of                                                       
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > micromatch > nanomatch >         
+                  kind-of                                                       
+
+  More info       https://npmjs.com/advisories/1490                             
+
+
+
+
+                                 Manual Review                                  
+             Some vulnerabilities require your attention to resolve             
+                                                                                
+          Visit https://go.npm.me/audit-guide for additional guidance           
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   mocha                                                         
+
+  Path            mocha > mkdirp > minimist                                     
+
+  More info       https://npmjs.com/advisories/1179                             
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   mocha-junit-reporter                                          
+
+  Path            mocha-junit-reporter > mkdirp > minimist                      
+
+  More info       https://npmjs.com/advisories/1179                             
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   eslint [dev]                                                  
+
+  Path            eslint > file-entry-cache > flat-cache > write > mkdirp >     
+                  minimist                                                      
+
+  More info       https://npmjs.com/advisories/1179                             
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   eslint [dev]                                                  
+
+  Path            eslint > mkdirp > minimist                                    
+
+  More info       https://npmjs.com/advisories/1179                             
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > fsevents >            
+                  node-pre-gyp > mkdirp > minimist                              
+
+  More info       https://npmjs.com/advisories/1179                             
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > fsevents >            
+                  node-pre-gyp > tar > mkdirp > minimist                        
+
+  More info       https://npmjs.com/advisories/1179                             
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > browser-sync > chokidar > fsevents >            
+                  node-pre-gyp > rc > minimist                                  
+
+  More info       https://npmjs.com/advisories/1179                             
+
+
+  Low             Prototype Pollution                                           
+
+  Package         minimist                                                      
+
+  Patched in      >=0.2.1 <1.0.0 || >=1.2.3                                     
+
+  Dependency of   lite-server [dev]                                             
+
+  Path            lite-server > minimist                                        
+
+  More info       https://npmjs.com/advisories/1179                             
+
+found 150 vulnerabilities (149 low, 1 moderate) in 3885 scanned packages
+  run `npm audit fix` to fix 142 of them.
+  8 vulnerabilities require manual review. See the full report for details.
