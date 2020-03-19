@@ -56,10 +56,18 @@ class Person {
 
   eat(someFood) {
     // Unlike in prototype it's easy and less code to type for defining a method
-    this.stomach.length = 10;
-    for (let someFood = 0; someFood < this.stomach.length; someFood++) {
+    //this.stomach.length = 10;
+    if (this.stomach.length < 10) {
+      //for (let someFood = 0; someFood < this.stomach.length; someFood++) {
       this.stomach.push(someFood);
     }
+  }
+  poop() {
+    //Lets allow our forthcoming instace this ability too
+    this.stomach = [];
+  }
+  toString() {
+    return `${this.name}, ${this.age}`;
   }
 }
 
@@ -77,7 +85,7 @@ class Person {
         + The `drive` method should return a string "I ran out of fuel at x miles!" x being `odometer`.
 */
 
-//class Car {}
+class Car {}
 
 /*
   TASK 3
@@ -91,6 +99,7 @@ class Person {
         + Speaking should return a phrase `Hello my name is {name}, I am from {location}`.
         + {name} and {location} of course come from the instance's own properties.
 */
+
 class Lambdasian {}
 
 /*
