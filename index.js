@@ -121,7 +121,17 @@ class Car {
         + {name} and {location} of course come from the instance's own properties.
 */
 
-class Lambdasian {}
+class Lambdasian {
+  constructor(props) {
+    //defined single param for constructor function
+    this.name = props.name;
+    this.age = props.age;
+    this.location = props.location;
+  }
+  speak() {
+    return `Hello my name is ${this.name}, I am from ${this.location}`;
+  }
+}
 
 /*
   TASK 4
@@ -137,7 +147,27 @@ class Lambdasian {}
         + `demo` receives a `subject` string as an argument and returns the phrase 'Today we are learning about {subject}' where subject is the param passed in.
         + `grade` receives a `student` object and a `subject` string as arguments and returns '{student.name} receives a perfect score on {subject}'
 */
-class Instructor {}
+class Instructor extends Lambdasian {
+  //1. Write an Instructor class extending Lambdasian.
+  constructor(attributes) {
+    // 2. What the constructor takes?- a single argument but before that??
+    // 4.Never forget to make a copy option its Important
+    super(attributes); //3. remember to put it right after constructor function
+    const copyOptions = { ...attributes };
+
+    this.specialty = copyOptions.specialty;
+    this.favLanguage = copyOptions.favLanguage;
+    this.catchPhrase = copyOptions.catchPhrase;
+  }
+  demo(subject) {
+    //receives subject as an argument
+    return `Today we are learning about ${subject}' where subject is the param passed in`;
+  }
+  grade(copyOptions, subject) {
+    //review needed
+    return `${this.name} receives a perfect score on ${subject}`;
+  }
+}
 
 /*
   TASK 5
@@ -154,7 +184,32 @@ class Instructor {}
         + `PRAssignment` a method that receives a subject as an argument and returns `student.name has submitted a PR for {subject}`
         + `sprintChallenge` similar to PRAssignment but returns `student.name has begun sprint challenge on {subject}`
 */
-class Student {}
+class Student extends Lambdasian {
+  //1 inheritance
+  constructor(attribute) {
+    super(attribute);
+
+    const thesuper = { ...attribute };
+
+    this.previousBackground = attribute.previousBackground;
+    this.className = attribute.className; //"CS132";
+    this.favSubjects = attribute.favSubjects; //["HTML", "CSS", "JS"];
+  }
+  listSubjects(thesuper) {
+    return `Loving ${this.favSubjects.toString()} !`;
+  }
+  PRAssignment(subject) {
+    return `${this.name} has submitted a PR for ${subject}`;
+  }
+
+  sprintChallenge(subject) {
+    return `${this.name} has begun sprint challenge on ${subject}`;
+  }
+
+  grade() {
+    const num = Range[1 - 100];
+  }
+}
 
 /*
   TASK 6
@@ -169,8 +224,28 @@ class Student {}
         + `standUp` a method that takes in a slack channel and returns `{name} announces to {channel}, @channel standy times!`
         + `debugsCode` a method that takes in a student object and a subject and returns `{name} debugs {student.name}'s code on {subject}`
 */
-class ProjectManager {}
+class ProjectManager extends Instructor {
+  constructor(attribute) {
+    super({ ...attribute });
 
+    const copy = { ...attribute };
+    const student_copy = { ...attribute };
+
+    this.gradClassName = attribute.gradClassName;
+    this.favInstructor = attribute.favInstructor;
+  }
+
+  standUp(slack) {
+    return `${this.name} announces to ${slack},@${slack} standy times!`;
+  }
+
+  debugsCode(student, subject) {
+    return `${this.name} debugs ${student.name}\'s code on ${subject}`;
+  }
+  grade(student, subject) {
+    return `${(this.name = "petar")} receives a perfect score on ${subject}`;
+  }
+}
 /*
   STRETCH PROBLEM (no tests!)
     - Extend the functionality of the Student by adding a prop called grade and setting it equal to a number between 1-100.
